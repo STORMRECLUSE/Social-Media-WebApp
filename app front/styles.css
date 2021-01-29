@@ -1,0 +1,129 @@
+body{
+	background-color:rgb(214, 234, 248);		
+}
+
+
+h1{
+	text-align: center;
+	font-weight:bold;
+	font-family: Calibri,Candara,Segoe,Segoe UI,Optima,Arial,sans-serif; 
+	font-size: 3em;
+}
+h2{
+	text-align: center;
+	font-weight:bold;
+	font-family: Calibri,Candara,Segoe,Segoe UI,Optima,Arial,sans-serif; 
+	font-size: 2em;
+}
+h3{
+	text-align: center;
+	font-weight:bold;
+	font-family: Calibri,Candara,Segoe,Segoe UI,Optima,Arial,sans-serif; 
+	font-size: 1em;
+}
+.note{
+	text-align: center;
+	font-weight:bold;
+	font-family: Calibri,Candara,Segoe,Segoe UI,Optima,Arial,sans-serif; 
+	font-size: 1.5em;
+}			
+img{
+	width: 200px;
+	height:200px;
+}
+.main {
+	text-align: center;
+	background-color:rgb(214, 234, 248);
+	width:90%;
+	height:80%;
+	margin:20px auto; 
+}
+
+.comments {
+    text-align: center;
+    background-color:rgb(121, 193, 244 );
+    width:90%;
+    height:80%;
+    margin:20px auto;
+    display: none
+ }
+
+.card1 {
+	width:95%;
+	border: 0.5em solid;
+	border-color: rgb(40, 116, 166);
+	border-radius: 2em 2em 2em 2em;
+	padding: 3em 0em 3em 0em;
+	background-color:rgb(133,193,233);
+	font-size: 1em;
+	font-family: Calibri,Candara,Segoe,Segoe UI,Optima,Arial,sans-serif; 
+	margin: 20px auto;
+}	
+.card2 {
+	width:70%;
+	border: 0.5em solid;
+	border-color: rgb(40, 116, 166);
+	border-radius: 2em 2em 2em 2em;
+	padding: 3em 0em 3em 0em;
+	background-color:rgb(133,193,233);
+	font-size: 1.3em;
+	font-family: Calibri,Candara,Segoe,Segoe UI,Optima,Arial,sans-serif; 
+	margin: 30px auto;
+}
+.card3 {
+	width:90%;
+	border: 0.5em solid;
+	border-color: rgb(40, 116, 166);
+	border-radius: 1em 1em 1em 1em;
+	padding: 3em 0em 3em 0em;
+	background-color: rgb(133,193,233);
+	font-size: 1.3em;
+	font-family: Calibri,Candara,Segoe,Segoe UI,Optima,Arial,sans-serif; 
+	margin: 30px auto;
+}
+.up {
+	vertical-align:top;
+}
+img{
+	width: 200px;
+	height:200px;
+}
+.navbar{
+	width:100%;
+	border: 0.25em solid;
+	border-color: rgb(40, 116, 166);
+	border-radius: 1em 1em 1em 1em;
+	padding: 0.5em 0.5em 0.5em 0.5em;
+	background-color: rgb(133,193,233);
+	text-align: right;
+}
+.alertmsg{
+	font-size: 1.0em;
+	font-family: Calibri,Candara,Segoe,Segoe UI,Optima,Arial,sans-serif; 
+	font-weight:bold;
+	color: rgb(255,0,0);
+	margin: 30px auto;
+}
+.btn{
+	background: rgb(133,193,233);
+	border-radius: 0.5em;
+	font-family: Calibri,Candara,Segoe,Segoe UI,Optima,Arial,sans-serif; 
+	font-size: 30px;
+}
+.inputmsg{
+	width:50%;
+	font-family: Calibri,Candara,Segoe,Segoe UI,Optima,Arial,sans-serif; 
+	font-size: 20px;
+	font-weight:bold;
+	background-color:rgb(133,193,233);
+}
+.inputmsg2{
+	width:50%;
+	font-family: Calibri,Candara,Segoe,Segoe UI,Optima,Arial,sans-serif; 
+	font-size: 20px;
+	font-weight:bold;
+	background-color:rgb(133,193,233);
+}
+#link{
+	text-align: center;
+}

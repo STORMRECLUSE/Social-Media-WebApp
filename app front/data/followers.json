@@ -1,0 +1,20 @@
+{"followings":[{
+  "id":1,
+  "name":"Evita",
+  "image":"img/evita.jpg",
+  "status":"I love OS!"
+},
+  {
+    "id":2,
+    "name":"James",
+    "image":"img/james.jpg",
+    "status":"I love WEB!"
+  },
+  {
+    "id":3,
+    "name":"Kyle",
+    "image":"img/kyle.jpg",
+    "status":"I love DB!"
+  }
+]
+}

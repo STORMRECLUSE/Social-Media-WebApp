@@ -1,0 +1,3 @@
+This is the backend for my social media web application.
+It uses MongoDB for database management and login authentication.
+It uses multer for file upload.
